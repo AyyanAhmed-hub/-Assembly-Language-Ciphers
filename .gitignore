@@ -1,0 +1,20 @@
+# Assembled object files
+*.obj
+*.o
+
+# Executables
+*.exe
+*.com
+*.out
+
+# Assembly/Linker listing and map files
+*.lst
+*.map
+*.crf
+*.swp
+
+# IDE / OS temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
