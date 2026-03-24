@@ -1,4 +1,4 @@
-# COAL Project Group 6 - Assembly Language Ciphers
+# COAL Project - Assembly Language Ciphers
 
 This repository contains the final project for the Computer Organization and Assembly Language (COAL) course by Group 6. The project is an interactive, menu-driven Assembly Language program that implements two distinct encryption/decryption techniques to secure text.
 
